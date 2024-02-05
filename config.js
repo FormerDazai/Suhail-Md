@@ -63,9 +63,9 @@ module.exports = {
   HANDLERS : process.env.PREFIX || ".",
   BRANCH : process.env.BRANCH   || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©sᴜʜᴀɪʟ²²¹-ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "©ꜱʜɪʏᴏᴍɪ ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author: process.env.PACK_AUTHER || "Suhail-MD",
+  author: process.env.PACK_AUTHER || "◄❖𝗭𝗘𝗣𝗛𝗬𝗥✧𝗩𝗔𝗟𝗘𝗛𝗔𝗥𝗧❖►",
   packname: process.env.PACK_NAME || "♥️",
   botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
   ownername:process.env.OWNER_NAME|| "It'x Suhail",
